@@ -21,7 +21,7 @@ def easyPlay(user_move):
     return random.choice(['rock', 'paper', 'scissor'])
 
 def moderatePlay(user_move):
-    if random.random() < 0.3:
+    if random.random() < 0.5:
         if user_move == 'rock': return 'paper'
         elif user_move == 'paper': return 'scissor'
         else: return 'rock'
