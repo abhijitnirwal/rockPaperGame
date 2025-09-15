@@ -1,4 +1,4 @@
 # rockPaperGame
-This is My first Rock paper Scissor Game with Python.
+This is My first Game, Rock paper Scissor with Python.
 <br>
 Author - Abhijit Nirwal
