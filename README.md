@@ -3,7 +3,7 @@ This is My first Game, Rock paper Scissor with Python.
 <br>
 Author - Abhijit Nirwal
 
-Info About Game<br>
+Game Info<br>
 This is Rock Paper Scissor game, where you can play with computer , and choose the difficulty level too.<br>
 and at last you will get your winning point.
 
