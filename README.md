@@ -1,15 +1,10 @@
 # rockPaperGame
-This is My first Game, Rock paper Scissor with Python.
+This is a command line Rock-Paper-Scissors game developed using Python.
+The user play against the computer, which selects moves randomly. The game keeps track of scores and allows the player to play multiple rounds.
 <br>
-Author - Abhijit Nirwal
-
-Game Info<br>
-This is Rock Paper Scissor game, where you can play with computer , and choose the difficulty level too.<br>
-and at last you will get your winning point.
-
-steps to play:-<br>
-1. First Enter you`r name.
-2. Choose the game Difficulty level
-3. Play the Game
-4. if you want to play further choose (y/yes), if not choose (n/no).
-5. at last you could see your winnings.
+This project demonstrates basic Python concepts such as:
+* Functions
+* Loops
+* Conditional Statements
+* User input handling
+* Random module usage
